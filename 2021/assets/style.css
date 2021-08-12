@@ -1,0 +1,32 @@
+.doec-banner {
+    background-color: antiquewhite;
+    /* height: 350px; */
+    background: url(./img/banner.jpg) center;
+}
+/* .doec-banner img {
+    width: 100%;
+    max-height: 350px;
+} */
+
+.doec-banner .nav-floating nav {
+    /* margin: 2rem; */
+    border-radius: 15px;
+}
+
+.doec-banner poster {
+}
+
+.doec-container Container {
+    border-radius: 15px;
+}
+
+.doec-container Container .title {
+    -webkit-writing-mode: vertical-lr;
+    writing-mode: vertical-lr ;
+    background: #C4C4C4;
+    padding: 1rem 0;
+}
+
+.doec-container Container img {
+    max-height: 8rem;
+}
